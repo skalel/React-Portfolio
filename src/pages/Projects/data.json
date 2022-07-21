@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "img_url": "",
+      "name": "Neto Imports",
+      "description": "Solicitado pelo cliente uma página de redirecionamento e página com funcionalidade de cálculo de Juros para parcelamento interno.",
+      "url": "https://www.netoimports.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 1,
+      "img_url": "",
+      "name": "Bixo Dengoso Pet Shop",
+      "description": "Personalização de Layout na plataforma NuvemShop para venda de produtos do petshop.",
+      "url": "https://www.bixodengosopetshop.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "img_url": "",
+      "name": "A Cura Financeira",
+      "description": "Landing Page customizada utilizando a plataforma BuilderAll para a construção.",
+      "url": "https://www.acurafinanceira.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "img_url": "",
+      "name": "Simone Serafim",
+      "description": "Site institucional desenvolvido em ReactJS personalizado para o Studio, visando demonstrar infraestrutura e procedimentos.",
+      "url": "https://www.simoneserafim.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "img_url": "",
+      "name": "D&E Logística",
+      "description": "Site institucional desenvolvido em ReactJS, desenvolvido com base nos materiais de Identidade Visual do cliente.",
+      "url": "https://www.deelogistica.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 5,
+      "img_url": "",
+      "name": "MB Prime Engenharia",
+      "description": "Site institucional desenvolvido em Wordpress utilizando o Elementor. Foram utilizados o Contact Form 7 e WP Mail SMTP como plugins.",
+      "url": "https://mbprimeengenharia.com.br/",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 6,
+      "img_url": "",
+      "name": "Completa Proteção Veicular",
+      "description": "Site institucional desenvolvido em Wordpress utilizando o Elementor. Foram utilizados o Contact Form 7 e WP Mail SMTP como plugins.",
+      "url": "https://www.completapv.com.br/",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 7,
+      "img_url": "",
+      "name": "Daddi Sportwear",
+      "description": "Customização de Layout de e-Commerce na plataforma Loja Integrada. Desenvolvido com base em um projeto de Identidade Visual e Layout.",
+      "url": "https://www.daddi.com.br",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": true,
+      "available": true
+    },
+    {
+      "id": 8,
+      "img_url": "",
+      "name": "",
+      "description": "",
+      "url": "",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": false,
+      "available": false
+    },
+    {
+      "id": 9,
+      "img_url": "",
+      "name": "",
+      "description": "",
+      "url": "",
+      "gh_url": "",
+      "snapshot": "",
+      "accessible": false,
+      "available": false
+    }
+  ]
+}

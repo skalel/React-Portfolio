@@ -36,10 +36,35 @@ const Conteiner = styled.div`
 
 const Box = styled.div`
   width: 40%;
-  border: 4px solid var(--detailsColorPrimary);
   min-width: 500px;
+  height: 150px;
   padding: 8px;
-  animation: ${Appear} 2s ease-in, ${ColorChange} 8s infinite ease-in-out;
+  animation: ${Appear} 2s ease-in, ${ColorChange} 24s infinite ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  &:hover {
+    &::before {
+      visibility: visible;
+      opacity: 1;
+      width: 500px;
+      height: 150px;
+    }
+  }
+
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    visibility: hidden;
+    opacity: 0;
+    border: 4px solid var(--detailsColorPrimary);
+    transition: 0.3s ease-in-out;
+  }
 `;
 
 const Content = styled.div`

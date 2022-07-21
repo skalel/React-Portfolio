@@ -20,7 +20,7 @@ export const Style = styled.div`
   }
   @media screen and (min-width: 811px) {
     box-sizing: border-box;
-    height: 100vmin;
+    height: auto;
     display: flex;
     flex-direction: column;
     background-color: var(--menuColor);
