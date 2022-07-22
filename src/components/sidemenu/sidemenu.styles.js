@@ -20,6 +20,7 @@ export const Style = styled.div`
   }
   @media screen and (min-width: 811px) {
     box-sizing: border-box;
+    min-height: 100vh;
     height: auto;
     display: flex;
     flex-direction: column;

@@ -17,11 +17,10 @@ function Development() {
         <MainTopic>Atualmente</MainTopic>
         <br />
         <p>
-          Atualmente me encontro estudando Node.JS e me aprofundando ainda mais
-          no React. Porém, estou iniciando estudos em Java e SpringBoot para
-          Back-end e React para Front-end. <br />
-          Estou fazendo parte do Bootcamp Fullstack da DIO com a TQI para
-          desenvolvimento Fullstack.
+          Atualmente estou concluindo a graduação e me especializando em
+          desenvolvimento fullstack, estudo linguagens como Java, Javascript e
+          C. Estudo também algumas frameworks como ReactJS e NodeJS.
+          <br />
         </p>
         <br />
         <MainTopic>Conhecimentos</MainTopic>
