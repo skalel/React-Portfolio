@@ -74,6 +74,15 @@ const ButtonModel = styled.div`
 
   padding: 4px;
 
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    background-color: var(--detailsColorPrimary);
+    & > a {
+      color: ${lighten(0.05, "#373333")};
+    }
+  }
+
   & > a {
     padding: 4px;
     text-decoration: none;
